@@ -1,9 +1,7 @@
-import { Footer } from "./Footer"
-import { Component } from "react";
-export default function Menu(){
+export default function Footer(){
     return(
-        <Footer>
+        <footer>
             <h1>Creditos</h1>
-        </Footer>
+        </footer>
     );
 };
